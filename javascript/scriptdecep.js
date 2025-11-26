@@ -25,4 +25,4 @@
         });
     }
 
-    console.log("SCRIP FUNCIONANDO");
+    console.log("SCRIPT FUNCIONANDO");
