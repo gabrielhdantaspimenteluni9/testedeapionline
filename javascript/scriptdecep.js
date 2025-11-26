@@ -25,4 +25,4 @@
         });
     }
 
-    //alert("teste de script")
+    console.log("SCRIP FUNCIONANDO");
